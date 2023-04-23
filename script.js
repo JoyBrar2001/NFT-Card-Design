@@ -5,7 +5,8 @@ var htmlString = "";
 const content = {
     "Doom":{title:"Doom", price:"56.00", sale:"40.00", url:"Doom"},
     "Batman":{title:"Batman", price:"50.00", sale:"36.00", url:"Batman Arkham Knight"},
-    "Elden Ring":{title:"Elden Ring", price:"64.00", sale:"45.00", url:"Elden Ring"}
+    "Elden Ring":{title:"Elden Ring", price:"64.00", sale:"45.00", url:"Elden Ring"},
+    "God of War":{title:"God of War", price:"56.99", sale:"43.99", url:"GoW"}
 };
 
 for(var key in content){
